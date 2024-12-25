@@ -8,3 +8,15 @@ emby1.misakaf.org
 emby2.misakaf.org
 emby3.misakaf.org
 emby-cf.plusmedia.site
+emby.wtf
+term.wtf
+aliz.work
+connect.emby.media
+pub1.emby.wtf
+pub1.term.wtf
+pub2.emby.wtf
+pub2.term.wtf
+pub3.emby.wtf
+pub3.term.wtf
+hka-emby2.aliz.work
+line.xmsl.org
