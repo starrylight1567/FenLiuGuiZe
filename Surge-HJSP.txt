@@ -1,0 +1,2 @@
+.iamok.in
+vstatic1.iamok.in
