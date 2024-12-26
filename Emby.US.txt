@@ -1,0 +1,7 @@
+.xmsl.org
+.aliz.work
+.eu.org
+line.xmsl.org
+hka-emby.aliz.work
+hka-emby1.aliz.work
+cavps.eu.org
