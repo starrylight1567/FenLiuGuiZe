@@ -1,0 +1,8 @@
+.emby.wtf
+.term.wtf
+pub1.emby.wtf
+pub1.term.wtf
+pub2.emby.wtf
+pub2.term.wtf
+pub3.emby.wtf
+pub3.term.wtf
