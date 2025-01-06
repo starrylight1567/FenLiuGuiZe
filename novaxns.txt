@@ -1,4 +1,6 @@
-xns.one
-nxns.link
-xns.rodeo
-
+.novaxns.one
+.xns.one
+.nxns.link
+.xns.rodeo
+172.93.220.162
+206.237.31.237
