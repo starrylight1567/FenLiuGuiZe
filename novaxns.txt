@@ -3,3 +3,16 @@
 .xns.rodeo
 172.93.220.162
 206.237.31.237
+148.178.21.17
+.beta.xns.rodeo
+at-pingan285.jp.beta.xns.rodeo
+at-pingan285.xns.rodeo
+sg.kahkee.xns.one
+at-pingan285.sg.kahkee.xns.rodeo
+hk.kahkee.xns.one
+jp.kahkee.xns.one
+at-pingan285.jp.kahkee.xns.rodeo
+hk.beta.xns.one
+at-pingan285.hk.beta.xns.rodeo
+fastly.xns.my.id
+at-pingan285.xns.rodeo
