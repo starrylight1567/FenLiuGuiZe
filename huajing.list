@@ -1,0 +1,9 @@
+# 规则名称: huajing
+# 规则统计: 5
+
+DOMAIN,qa-video1.iamok.in
+DOMAIN,vstatic1.iamok.in
+DOMAIN,vstart1.iamok.in
+DOMAIN-SUFFIX,iamok.in
+DOMAIN-KEYWORD,iamok
+
