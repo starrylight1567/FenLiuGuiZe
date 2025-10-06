@@ -1,0 +1,19 @@
+# 规则名称: 特别代理
+# 规则统计: 5
+# Clash 怎么设置规则 https://clashyun.com/183.html
+DOMAIN,dash.xns.one
+DOMAIN,mirrorbits.lineageos.org
+DOMAIN,raw.githubusercontent.com
+DOMAIN,v2raya.org
+DOMAIN,www.nodeseek.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,mirrors.ocf.berkeley.edu
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,lineageos.org
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,v2raya.org
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cock.li
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,v2raya
