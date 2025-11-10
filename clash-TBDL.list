@@ -7,7 +7,6 @@ DOMAIN,raw.githubusercontent.com
 DOMAIN,v2raya.org
 DOMAIN,www.nodeseek.com
 DOMAIN,challenges.cloudflare.com
-DOMAIN,mirrors.ocf.berkeley.edu
 DOMAIN,gemmei.ftp.acc.umu.se
 DOMAIN,mirrors.ocf.berkeley.edu
 DOMAIN,my.halocloud.net
@@ -20,3 +19,4 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cock.li
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,v2raya
+IP-CIDR,18.18.18.18/32
