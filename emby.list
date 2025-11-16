@@ -1,6 +1,0 @@
-# 规则名称: Emby服
-# 规则统计: 4
-DOMAIN,line.xmsl.org
-DOMAIN-SUFFIX,xmsl
-DOMAIN,cdn.lyrebirdemby.com
-DOMAIN-SUFFIX,lyrebirdemby
