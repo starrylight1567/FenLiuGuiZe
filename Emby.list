@@ -7,9 +7,8 @@
 # DOMAIN-KEYWORD 域名关键字 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
 # IP-CIDR IPv4地址段 IP-CIDR 规则用于根据数据包的目标 IPv4 地址路由数据包。
 # SRC-IP-CIDR 源IP段地址 SRC-IP-CIDR 规则用于根据数据包的来源 IPv4 地址路由数据包。
-#垃圾公费  line.xmsl.org:80
-#琴鸟 https://cn-1.lyrebirdemby.online:443 , https://cn-2.lyrebirdemby.online:443 , http://188.172.228.65:80 , http://138.68.236.33:80 ,
-
+##垃圾公费  line.xmsl.org:80
+##琴鸟 https://cn-1.lyrebirdemby.online:443 , https://cn-2.lyrebirdemby.online:443 , http://188.172.228.65:80 , http://138.68.236.33:80 ,
 DOMAIN,line.xmsl.org
 DOMAIN-SUFFIX,xmsl
 DOMAIN,cdn.lyrebirdemby.com
