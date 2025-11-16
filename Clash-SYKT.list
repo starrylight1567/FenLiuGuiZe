@@ -1,5 +1,9 @@
 # 规则名称: 特别代理
-# 规则统计: 5
+# DOMAIN 域名 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com，但不匹配 www.google.com。
+# DOMAIN-SUFFIX 域名后缀 匹配域名后缀，例如 DOMAIN-SUFFIX,google.com 匹配 google.com 和 www.google.com。
+# DOMAIN-KEYWORD 域名关键字 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
+# IP-CIDR IPv4地址段 IP-CIDR 规则用于根据数据包的目标 IPv4 地址路由数据包。
+# SRC-IP-CIDR 源IP段地址 SRC-IP-CIDR 规则用于根据数据包的来源 IPv4 地址路由数据包。
 # Clash 怎么设置规则 https://clashyun.com/183.html
 DOMAIN,dash.xns.one
 DOMAIN,mirrorbits.lineageos.org
