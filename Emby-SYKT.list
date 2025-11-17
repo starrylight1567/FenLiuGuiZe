@@ -6,6 +6,7 @@
 # SRC-IP-CIDR 源IP段地址 SRC-IP-CIDR 规则用于根据数据包的来源 IPv4 地址路由数据包。
 # Clash 怎么设置规则 https://clashyun.com/183.html
 DOMAIN-KEYWORD,xmsl
+DOMAIN,loserembygf.zabc.net
 DOMAIN,line.xmsl.org
 DOMAIN-KEYWORD,lyrebirdemby
 DOMAIN,cdn.lyrebirdemby.com
@@ -13,3 +14,6 @@ DOMAIN,cn-1.lyrebirdemby.online
 DOMAIN,cn-2.lyrebirdemby.online
 IP-CIDR,188.172.228.65/24
 IP-CIDR,138.68.236.33/24
+DOMAIN,mirrors.ocf.berkeley.edu
+DOMAIN,mirrorbits.lineageos.org
+DOMAIN,download.lineageos.org
