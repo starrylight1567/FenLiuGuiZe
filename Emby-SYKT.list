@@ -9,6 +9,7 @@
 # SRC-IP-CIDR 源IP段地址 SRC-IP-CIDR 规则用于根据数据包的来源 IPv4 地址路由数据包。 #如果你想根据 哪台设备（源 IP）在上网 来分流 → 用 SRC-IP-CIDR，##
 # Clash 怎么设置规则 https://clashyun.com/183.html
 DOMAIN-KEYWORD,xmsl
+DOMAIN-KEYWORD,zabc
 IP-CIDR,104.21.77.212/32
 IP-CIDR,172.67.211.198/32
 IP-CIDR,104.18.16.77/32
