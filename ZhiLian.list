@@ -1,0 +1,12 @@
+# 规则名称: Emby服
+# DOMAIN 域名 完全匹配域名，例如 DOMAIN,google.com 匹配 google.com，但不匹配 www.google.com。
+# DOMAIN-SUFFIX 域名后缀 匹配域名后缀，例如 DOMAIN-SUFFIX,google.com 匹配 google.com 和 www.google.com。
+# DOMAIN-KEYWORD 域名关键字 关键词匹配域名，例如 DOMAIN-KEYWORD,google 匹配 google.com 和 google.jp。
+# IP-CIDR IPv4地址段 IP-CIDR 规则用于根据数据包的目标 IPv4 地址路由数据包。 #如果你想根据 访问的服务器是哪一段 IP 来分流 → 用 IP-CIDR，##
+# /16：一大块（几万 IP）——192.168.*.*   IP-CIDR,192.168.0.0/16：匹配目标 IP 在整个 192.168.x.x 网段里，
+# /24：一小块（256 IP）——192.168.1.*    IP-CIDR,192.168.1.0/24：只匹配 192.168.1.x 这一小段，
+# /32：单个点（1 IP）——192.168.1.10     IP-CIDR,192.168.1.10/32：只匹配这一台机器
+# SRC-IP-CIDR 源IP段地址 SRC-IP-CIDR 规则用于根据数据包的来源 IPv4 地址路由数据包。 #如果你想根据 哪台设备（源 IP）在上网 来分流 → 用 SRC-IP-CIDR，##
+# Clash 怎么设置规则 https://clashyun.com/183.html
+DOMAIN,cd2.jxry.de
+DOMAIN,alist.jxry.de
