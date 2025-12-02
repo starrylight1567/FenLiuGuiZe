@@ -10,3 +10,4 @@
 # Clash 怎么设置规则 https://clashyun.com/183.html
 DOMAIN,cd2.jxry.de
 DOMAIN,alist.jxry.de
+DOMAIN-SUFFIX,115.com
