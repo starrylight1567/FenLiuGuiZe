@@ -31,3 +31,7 @@ DOMAIN-SUFFIX,zox.show
 DOMAIN-KEYWORD,mypikpak
 DOMAIN-SUFFIX,mypikpak.net
 IP-CIDR,104.18.17.77/32
+DOMAIN-KEYWORD,uhdnow
+DOMAIN-SUFFIX,uhdnow.com
+DOMAIN,v1.uhdnow.com
+DOMAIN,global.uhdnow.com
